@@ -1,0 +1,28 @@
+
+*{margin: 0;
+padding: 0;}
+
+.total{width:100%;}
+
+.medio{width:50%;float: left;}
+
+.verde{background: skyblue;}
+
+.rojo{background: red;}
+/*
+header, footer {text-align: center;}
+*/
+.text-center{text-align: center;}
+
+main{
+  width: 70%;
+  float: left;
+
+}
+aside{
+  width: 30%;
+  float: left;
+
+}
+
+aside img{max-width: 100%;}
